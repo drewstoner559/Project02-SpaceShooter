@@ -10,3 +10,11 @@ references: Kenney.nl
 
 future development:
 
+what project has:
+
+Ship movement +3
+weapons/bullet +4
+two or more enemies/obstacles +4
+start/end screen +2 (Cant get the stars to hit the ship fast enough, could not include feature in the video)
+
+no scoring system
