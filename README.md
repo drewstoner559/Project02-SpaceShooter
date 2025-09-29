@@ -1,9 +1,9 @@
 # Project02-SpaceShooter
 
-# Project Name
-Context and date
+# Star Shooter
+Im implmeneted several stars as obstacles the ship has to avoid. However I encountered mutliple errors with trying to keep the starsa nd ship contained on the screen. 
 Description
-## Implementation
-## References
+## Kenney.nl.com references
+## 
 ## Future Development
-## Created by
+## Drew Stoner
